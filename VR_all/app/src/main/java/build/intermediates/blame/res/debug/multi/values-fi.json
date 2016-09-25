@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/values-fi/values-fi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 98,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 270,
+                        "endColumn": 94,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 79,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 365,
+                        "endColumn": 75,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endColumn": 149,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 441,
+                        "endColumn": 145,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 156,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 587,
+                        "endColumn": 152,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 78,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 740,
+                        "endColumn": 74,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 85,
+                    "endOffset": 751
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 815,
+                        "endColumn": 81,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 756,
+                    "endColumn": 232,
+                    "endOffset": 984
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 897,
+                        "endColumn": 228,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 989,
+                    "endColumn": 209,
+                    "endOffset": 1194
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1126,
+                        "endColumn": 205,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 101,
+                    "endOffset": 1296
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1332,
+                        "endColumn": 97,
+                        "endOffset": 1429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1301,
+                    "endColumn": 110,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1430,
+                        "endColumn": 106,
+                        "endOffset": 1536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 119,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1537,
+                        "endColumn": 115,
+                        "endOffset": 1652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endColumn": 123,
+                    "endOffset": 1651
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1653,
+                        "endColumn": 119,
+                        "endOffset": 1772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1656,
+                    "endColumn": 155,
+                    "endOffset": 1807
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1773,
+                        "endColumn": 155,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1812,
+                    "endColumn": 103,
+                    "endOffset": 1911
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 1929,
+                        "endColumn": 99,
+                        "endOffset": 2028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1916,
+                    "endColumn": 86,
+                    "endOffset": 1998
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2029,
+                        "endColumn": 82,
+                        "endOffset": 2111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2003,
+                    "endColumn": 85,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2112,
+                        "endColumn": 81,
+                        "endOffset": 2193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2089,
+                    "endColumn": 98,
+                    "endOffset": 2183
+                },
+                "from": {
+                    "file": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 2194,
+                        "endColumn": 94,
+                        "endOffset": 2288
+                    }
+                }
+            }
+        ]
+    }
+]

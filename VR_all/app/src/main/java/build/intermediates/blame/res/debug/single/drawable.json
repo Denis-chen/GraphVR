@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable/rippleable.xml",
+        "source": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/drawable/rippleable.xml"
+    },
+    {
+        "merged": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/drawable/ic_settings_48dp.png",
+        "source": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/drawable/ic_settings_48dp.png"
+    }
+]

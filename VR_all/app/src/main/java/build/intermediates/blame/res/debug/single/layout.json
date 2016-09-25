@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout/ui_layer.xml",
+        "source": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/layout/ui_layer.xml"
+    },
+    {
+        "merged": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout/back_button.xml",
+        "source": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/layout/back_button.xml"
+    },
+    {
+        "merged": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout/transition_view.xml",
+        "source": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/layout/transition_view.xml"
+    },
+    {
+        "merged": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout/ui_layer_with_portrait_support.xml",
+        "source": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/exploded-aar/gvr-android-sdk/libraries-base/unspecified/res/layout/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/build/intermediates/res/merged/debug/layout/common_ui.xml",
+        "source": "/home/grayturtle/Android/gvr-android-sdk/samples/sdk-treasurehunt/src/main/res/layout/common_ui.xml"
+    }
+]
